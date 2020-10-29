@@ -1,4 +1,4 @@
-# STM32F407DISCOVERY Specific Peipheral APIs
+# STM32F407DISCOVERY Specific Peripheral APIs
 A repository of various STM32f4-DISCOVERY peripheral APIs.
 
 # Including:
