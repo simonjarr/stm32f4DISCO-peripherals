@@ -1,9 +1,3 @@
-/*
- * stm32f407xx_gpio_driver.h
- *
- *  Created on: Oct 24, 2020
- *      Author: goktugsaray
- */
 
 #ifndef INC_STM32F407_GPIO_H_
 #define INC_STM32F407_GPIO_H_
