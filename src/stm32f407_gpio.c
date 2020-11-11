@@ -1,9 +1,3 @@
-/*
- * stm32f4xx_gpio_.c
- *
- *  Created on: Oct 24, 2020
- *      Author: goktugsaray
- */
 
 #include <stm32f407_gpio.h>
 
