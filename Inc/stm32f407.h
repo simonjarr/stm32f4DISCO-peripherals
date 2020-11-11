@@ -1,9 +1,3 @@
-/*
- * stm3f407xx.h
- *
- *  Created on: Oct 24, 2020
- *      Author: goktugsaray
- */
 
 #ifndef INC_STM3F407XX_H_
 #define INC_STM3F407XX_H_
