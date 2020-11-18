@@ -1,10 +1,3 @@
-/*
- * stm32f407xx_spi_driver.h
- *
- *  Created on: Oct 29, 2020
- *      Author: goktugsaray
- */
-
 #ifndef INC_STM32F407_SPI_H_
 #define INC_STM32F407_SPI_H_
 
