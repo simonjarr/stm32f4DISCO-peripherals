@@ -169,7 +169,7 @@ void GPIO_Init(GPIO_handle_t* pGPIO_handle_t)
 	//4. Configure output type
 
 	temp = ( pGPIO_handle_t->GPIO_PinConfig.GPIO_PinOPType << (pGPIO_handle_t->GPIO_PinConfig.GPIO_PinNumber) );
-	pGPIO_handle_t->pGPIOx->OTYPER &= ~(1 << (2 * pGPIO_handle_t->GPIO_PinConfig.GPIO_PinNumber) );
+	pGPIO_handle_t->pGPIOx->OTYPER &= ~(1 << pGPIO_handle_t->GPIO_PinConfig.GPIO_PinNumber );
 	pGPIO_handle_t->pGPIOx->OTYPER |= temp;
 
 	//5. Configure alternate functionality mode
