@@ -1,5 +1,5 @@
 # STM32F407DISCOVERY Specific Peripheral APIs
-A repository of various STM32f4-DISCOVERY peripheral APIs.
+A repository of various STM32f4-DISCOVERY peripheral APIs. Anyone can use this tool to Initialize any peripheral and use it with none to small adjustments depending on the MCU.
 
 # Including:
 
